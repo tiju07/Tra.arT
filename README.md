@@ -1,6 +1,6 @@
 This is a Travel Website created using HTML, CSS, Javascript and React.js.
 
-Have a look at the site: https://traart.netlify.app/
+Have a look at the site: [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://traart.netlify.app/)
 
 For the development part, this project uses the "create-react-app" tool to initialize a template folder structure for React.
 
